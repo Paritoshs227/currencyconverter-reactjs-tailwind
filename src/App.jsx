@@ -45,8 +45,8 @@ function App() {
             onCurrencyChange={(currency) => setTo(currency)}
             selectCurrency={to}
             onAmountChange={(convertedAmount) => setConvertedAmount(convertedAmount)}
-          amountDisabled
-          currencyDisabled
+            amountDisabled
+          //currencyDisabled
           />
           <button type='submit' className='border rounded border-blue-400 bg-blue-400 w-fit p-1 text-white mb-5'>convert {from} to {to}</button>
         </form>
