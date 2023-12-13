@@ -21,7 +21,7 @@ function Inputbox(
                 <input
                     className='border rounded border-slate-300 outline-blue-600 p-1 w-1/2 sm:w-3/4'
                     id={amountInputId}
-                    type='number'
+                    type='tel'
                     placeholder='Amount'
                     disabled={amountDisabled}
                     value={amount}
