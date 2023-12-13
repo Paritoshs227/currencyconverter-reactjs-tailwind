@@ -1,6 +1,7 @@
 {
   "name": "currencyconverter",
   "private": true,
+  "homepage": "https://paritoshs227.github.io/currencyconverter-reactjs-tailwind",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
